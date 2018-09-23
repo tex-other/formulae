@@ -10,3 +10,5 @@ Date unknown: the “date modified” says “7/16/96, 5:00:00 PM” but the pap
 
 The "original" directory contains what was downloaded;
 the "uncompressed" directory contains the same uncompressed.
+
+After creating this repository I realized that it's also available at https://github.com/pkamenarsky/formulae (who's mirrorred it for the same reason).
